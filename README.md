@@ -2,6 +2,7 @@
 
 PySimpleGUI と OpenCV を使用して作成したジグソーパズルです。
 
+![output](https://user-images.githubusercontent.com/15520094/167318650-63cd032c-fd67-4349-9cb7-f9f3a821ef09.gif)
 
 ダウンロード
 ------------
