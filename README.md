@@ -1,6 +1,6 @@
 # PySimpleGUI-JigsawPuzzle
 
-PySimpleGUI と OpenCV を使用して作成したジグソーパズルです。
+FreeSimpleGUI(PySimpleGUI) と OpenCV を使用して作成したジグソーパズルです。
 
 ![output](https://user-images.githubusercontent.com/15520094/167318650-63cd032c-fd67-4349-9cb7-f9f3a821ef09.gif)
 
@@ -15,13 +15,13 @@ PySimpleGUI と OpenCV を使用して作成したジグソーパズルです。
 
 【Windows】
 
-    pip install pysimplegui
+    pip install FreeSimpleGUI
 
     python JigsawPuzzle.py
 
 【Linux(ubuntu)】
 
-    pip3 install pysimplegui
+    pip3 install FreeSimpleGUI
 
     python3 JigsawPuzzle.py
 

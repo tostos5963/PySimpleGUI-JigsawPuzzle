@@ -4,7 +4,7 @@ import base64
 import random
 import numpy as np
 import cv2
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 
 def cvimg2pngimg(cv_img):
     _, encoded = cv2.imencode(".png", cv_img)
